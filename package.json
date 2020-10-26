@@ -1,0 +1,14 @@
+{
+  "name": "adorable-avatars-vercel",
+  "version": "1.0.0",
+  "main": "api/index.ts",
+  "repository": "git@github.com:ssistoza/adorable-avatars-vercel.git",
+  "author": "Shane Avery Sistoza <me@ssistoza.dev> (http://ssistoza.github.io/)",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@vercel/node": "^1.8.4",
+    "adorable-avatars": "^0.4.1",
+    "express": "^4.17.1"
+  }
+}
