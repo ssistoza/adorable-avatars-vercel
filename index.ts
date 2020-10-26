@@ -1,6 +1,6 @@
 const avatarsMiddleware = require('adorable-avatars');
 const app = require('express')();
 
-app.use('/api', avatarsMiddleware);
+app.use('/', avatarsMiddleware);
 
 module.exports = app;
